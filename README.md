@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anush%20Niranchan%20Anandh&fontSize=44&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Security%20Operations%20%7C%20Threat%20Hunting%20%7C%20DFIR&descAlignY=62&descSize=18&descAlign=center"/>
 
 <p align="center">
-  <a href="https://github.com/anushniranchan-cyber"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=720&lines=Security+Operations+Analyst+%F0%9F%9B%A1%EF%B8%8F;SIEM+Triage+%7C+CrowdStrike+Falcon+%7C+MITRE+ATT%26CK;Threat+Hunting+%7C+OSINT+%7C+Malware+Triage;500%2B+alerts+a+day.+Zero+missed+threats+on+my+watch." alt="Typing SVG" /></a>
+  <a href="https://github.com/anushniranchan-cyber"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=720&lines=Security+Operations+Analyst+%F0%9F%9B%A1%EF%B8%8F;SIEM+Triage+%7C+CrowdStrike+Falcon+%7C+MITRE+ATT%26CK;Threat+Hunting+%7C+OSINT+%7C+Malware+Triage;500%2B+alerts+a+day.+Paranoia+is+a+feature." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I'm a **Security Operations professional** with ~3 years of hands-on SOC experie
 daily_grind:
   - Triage 500+ SIEM alerts with surgical precision
   - Hunt threats across 1000+ endpoints with CrowdStrike Falcon
-  - Tune detections mapped to MITRE ATT&CK (cut false positives by 15%)
+  - Tune detections mapped to MITRE ATT&CK
   - Dig into IOCs with OSINT & threat intel
   - Keep AWS honest via IAM + CloudTrail monitoring
   - Speak fluent compliance: PCI-DSS, SOX, CIS
@@ -67,7 +67,7 @@ currently:
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [🎣 **Phishing Email Analyzer**](https://github.com/anushniranchan-cyber/phishing-email-analyzer) | Automates phishing triage — parses headers, extracts URLs/attachments, detonates in sandbox, correlates IOCs against VirusTotal & AbuseIPDB. Cut manual analysis time by **~70%**. | `Python` `VirusTotal API` `AbuseIPDB` `Email Forensics` |
-| [🛡️ **SOC Incident Response Lab**](https://github.com/anushniranchan-cyber/soc-ir-simulation-lab) | Home SOC range on VirtualBox + Splunk. Simulated brute-force, privesc & lateral movement with Atomic Red Team; wrote SPL detections & IR playbooks mapped to **MITRE ATT&CK**. | `Splunk` `Atomic Red Team` `VirtualBox` `MITRE ATT&CK` |
+| [🛡️ **SOC Incident Response Lab**](https://github.com/anushniranchan-cyber/soc-ir-simulation-lab) | Reproducible home SOC lab design on VirtualBox + Splunk — example SPL detections & IR playbooks mapped to **MITRE ATT&CK**, with a step-by-step build guide. | `Splunk` `Atomic Red Team` `VirtualBox` `MITRE ATT&CK` |
 
 ---
 
